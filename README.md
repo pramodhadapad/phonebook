@@ -142,6 +142,3 @@ This will output static files to the `dist` directory which can be served via Ng
 Contributions, issues, and feature requests are welcome! 
 Feel free to check out the issues page if you want to contribute.
 
-## 📝 License
-
-This project is licensed under the MIT License.
